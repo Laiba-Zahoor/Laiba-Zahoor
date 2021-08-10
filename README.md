@@ -1,8 +1,8 @@
 <h1 align="center">Hi👋, I'm Laiba Zahoor</h1>
 <h3 align="center">I am Exploring Docker as well as Kubernetes</h3>
 <h5 align="center">Humble, HardWorking, Sincere </h5>
-<!-- <p align="center"> <a href="laiba545244j@gmail.com" target="blank"><img src="https://jatechsitestorage.blob.core.windows.net/public/JonahAndersson_AzureFunctionsShirt.jpg" width="150px" alt="jonahandersson" /></a> </p>
-<p align="center"> <a href="https://twitter.com/zahoorlaiba1" target="blank"><img src="https://img.shields.io/twitter/follow/cjkodare?logo=twitter&style=for-the-badge" alt="cjkodare" /></a> </p> -->
+<p align="center"> <a href="laiba545244j@gmail.com" target="blank"><img src="https://github.com/Laiba-Zahoor/Laiba-Zahoor/blob/main/Pictures/Untitled_design__1_-removebg-preview.png" width="600px" alt="Laiba Zahoor" /></a> </p>
+
 
 - 🔭 I’m currently  Exploring Docker and Kubernetes, I Started my **#100DaysOfKubernetes**.
 - 👯 I’m looking to collaborate on cloud native technologies with <a href="https://community.cncf.io/islamabad/"> Cloud Native Islamabad </a>  
@@ -17,7 +17,7 @@
 <a href="https://twitter.com/zahoorlaiba1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laibazahoor" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/laibazahoor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Laibazahoor" height="30" width="40" /></a>
  <a href="https://web.facebook.com/profile.php?id=100071485924848" target="blank"><img align="center" src="https://github.com/Laiba-Zahoor/Laiba-Zahoor/blob/main/Pictures/Facebook-logo.png" alt="Laibazahoor" height="35" width="40" /></a>
- <a href="https://www.youtube.com/channel/UCgU_zgdBpmt4ffPfuUkyLUA" target="blank"><img align="center" src="https://github.com/Laiba-Zahoor/Laiba-Zahoor/blob/main/Pictures/youtube-logo.jpg" alt="Laibazahoor" height="30" width="40" /></a>
+ <a href="https://www.youtube.com/channel/UCgU_zgdBpmt4ffPfuUkyLUA" target="blank"><img align="center" src="https://github.com/Laiba-Zahoor/Laiba-Zahoor/blob/main/Pictures/youtube-logo-removebg-preview.png" alt="Laibazahoor" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
