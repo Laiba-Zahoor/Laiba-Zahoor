@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/laibazahoor1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Laibazahoor" height="30" width="40" /></a>
-<a href="https://twitter.com/zahoorlaiba1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laibazahoor" height="30" width="40" /></a>
+<a href="https://twitter.com/Laiba_k8sgirl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laibazahoor" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/laibazahoor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Laibazahoor" height="30" width="40" /></a>
  <a href="https://web.facebook.com/profile.php?id=100071485924848" target="blank"><img align="center" src="https://github.com/Laiba-Zahoor/Laiba-Zahoor/blob/main/Pictures/Facebook-logo.png" alt="Laibazahoor" height="35" width="40" /></a>
  <a href="https://www.youtube.com/channel/UCgU_zgdBpmt4ffPfuUkyLUA" target="blank"><img align="center" src="https://github.com/Laiba-Zahoor/Laiba-Zahoor/blob/main/Pictures/youtube-logo-removebg-preview.png" alt="Laibazahoor" height="50" width="50" /></a>
